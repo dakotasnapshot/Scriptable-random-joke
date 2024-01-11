@@ -30,3 +30,7 @@ This script uses the icanhazdadjoke.com API created by [The GitHub Contributors]
 - Dad Joke API by icanhazdadjoke.com.
 
 Enjoy the dad jokes on your Home Screen!
+
+## Screenshots
+![IMG_3811](https://github.com/dakotasnapshot/Scriptable-random-joke/assets/19753948/92248a60-fabe-410a-9eed-61b49016941e)
+![IMG_3810](https://github.com/dakotasnapshot/Scriptable-random-joke/assets/19753948/3dc31450-8194-422b-866f-1b6db61ab2c7)
